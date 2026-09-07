@@ -1,6 +1,6 @@
 # 3D Extruded ASCII Wordmark & Terminal Profile Art
 
-This directory contains the automation pipeline and rendering engine for the animated terminal SVGs featured on [@goyalrajat4322-hash](https://github.com/goyalrajat4322-hash)'s GitHub profile README.
+This directory contains the automation pipeline and rendering engine for the animated terminal SVGs featured on [@goyalrajat29](https://github.com/goyalrajat29)'s GitHub profile README.
 
 ---
 

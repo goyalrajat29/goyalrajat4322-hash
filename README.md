@@ -40,13 +40,13 @@
 <h4>🎥 AI Interview Analyzer</h4>
 <p>AI candidate behavior analyzer during online interviews with <b>89% anomaly detection accuracy</b>. Uses facial recognition, eye tracking, and real-time suspicion scoring.</p>
 <p><code>Python</code> · <code>OpenCV</code> · <code>MediaPipe</code> · <code>TensorFlow</code> · <code>Flask</code> · <code>MongoDB</code></p>
-<p><a href="https://github.com/goyalrajat4322-hash/ai-interview-analyzer"><b>⚡ View Repository →</b></a></p>
+<p><a href="https://github.com/goyalrajat29/ai-interview-integrity-anaylzer"><b>⚡ View Repository →</b></a></p>
 </td>
 <td width="50%" valign="top">
 <h4>🔎 AI Resume Analyzer</h4>
 <p>NLP-powered resume matcher achieving <b>82% skill-match accuracy</b> with feature extraction and semantic similarity scoring to optimize resumes for job descriptions.</p>
 <p><code>Python</code> · <code>NLP</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>Streamlit</code></p>
-<p><a href="https://github.com/goyalrajat4322-hash"><b>⚡ View Repository →</b></a></p>
+<p><a href="https://github.com/goyalrajat29"><b>⚡ View Repository →</b></a></p>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@
 <h4>📺 Peblo TV — Streaming & Content CMS</h4>
 <p>Full-stack OTT streaming & content management platform featuring a Netflix-style viewer, admin CMS, artwork management, content publishing workflow, and REST APIs.</p>
 <p><code>Full-Stack</code> · <code>REST APIs</code> · <code>CMS Architecture</code> · <code>Media Streaming</code></p>
-<p><a href="https://github.com/goyalrajat4322-hash/peblo_tv"><b>⚡ View Repository →</b></a></p>
+<p><a href="https://github.com/goyalrajat29/peblo_tv"><b>⚡ View Repository →</b></a></p>
 </td>
 </tr>
 </table>
@@ -85,19 +85,19 @@
 <h3><code>rajat@github ~ $ ./achievements.sh</code></h3>
 
 <p>
-  <a href="https://github.com/goyalrajat4322-hash?tab=achievements">
+  <a href="https://github.com/goyalrajat29?tab=achievements">
     <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="60" alt="Quickdraw" title="Quickdraw: Closed an issue or PR within 5 minutes" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/goyalrajat4322-hash?tab=achievements">
+  <a href="https://github.com/goyalrajat29?tab=achievements">
     <img src="https://github.githubassets.com/assets/pull-shark-bronze-b08885a539e6.png" width="60" alt="Pull Shark x2" title="Pull Shark (Bronze x2): Merged 16+ pull requests" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/goyalrajat4322-hash?tab=achievements">
+  <a href="https://github.com/goyalrajat29?tab=achievements">
     <img src="https://github.githubassets.com/assets/pair-extraordinaire-bronze-26248384b2a8.png" width="60" alt="Pair Extraordinaire x2" title="Pair Extraordinaire (Bronze x2): Co-authored 10+ merged commits" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/goyalrajat4322-hash?tab=achievements">
+  <a href="https://github.com/goyalrajat29?tab=achievements">
     <img src="https://github.githubassets.com/assets/yolo-default-be0bb92e0172.png" width="60" alt="YOLO" title="YOLO: Merged a PR without code review" />
   </a>
 </p>
@@ -111,7 +111,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajat_Goyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-goyal-a61101392)
 [![Email](https://img.shields.io/badge/Email-goyalrajat4322@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalrajat4322@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-goyalrajat4322--hash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goyalrajat4322-hash)
+[![GitHub](https://img.shields.io/badge/GitHub-goyalrajat29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goyalrajat29)
 
 <br>
 <br>
